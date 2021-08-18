@@ -1,0 +1,27 @@
+body {
+  width: 25em;
+  font-family: "Open Sans Light", sans-serif;
+  font-size: 0.9em;
+  font-weight: 300;
+}
+
+
+.title {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+span {
+	width: 150px;
+	display: inline-block;
+}
+select {
+    width: 80px;
+    margin-left: 8px;
+}
+
+label {
+    width: 270px;
+    display: inline-block;
+    border-bottom: 1px dashed red;
+}
